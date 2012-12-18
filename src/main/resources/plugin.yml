@@ -1,0 +1,12 @@
+author: MDCollins
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: com.blockmovers.plugins.creativedroptodelete.CreativeDropToDelete
+name: CreativeDropToDelete
+startup: postworld
+url: http://blockmovers.com/
+version: '0.1'
+permissions:
+  cdtd.exempt:
+    default: false
+    description: Allows players to drop their items in creative and not dissappear
