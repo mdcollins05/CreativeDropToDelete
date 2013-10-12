@@ -5,7 +5,7 @@ main: com.blockmovers.plugins.creativedroptodelete.CreativeDropToDelete
 name: CreativeDropToDelete
 startup: postworld
 url: http://blockmovers.com/
-version: '0.1'
+version: '${version}'
 permissions:
   cdtd.exempt:
     default: false
